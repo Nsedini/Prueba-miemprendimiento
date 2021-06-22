@@ -9948,4 +9948,14 @@ body {
   object-fit: cover;
 }
 
+.info {
+  border-style: solid 30px #000;
+}
+
+.image2 {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+}
+
 /*# sourceMappingURL=main.css.map */
