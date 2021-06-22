@@ -33,20 +33,16 @@
   }
 
   .lista {
+    display: flex;
     padding: 0;
     list-style: none;
-  }
-
-  .ico {
-      display: inlline;
-      
   }
 
 .profile {
   text-align: center;
 }
 
-.user {
+.image5 {
   height: 4.5em;
   width: 4.5em;
   border: 2px solid #000;
@@ -67,4 +63,18 @@
     object-fit: cover;
     width: 100%;
     height: auto;
+}
+
+.redes {
+  list-style: none;
+  text-align: center;
+  padding-left: 0;
+}
+
+.cursos {
+  text-align: center;
+}
+
+.icon {
+  display: inline;
 }
