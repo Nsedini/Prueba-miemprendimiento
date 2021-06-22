@@ -10027,10 +10027,11 @@ body {
   color: #fff;
   margin: 1em 5.3em;
 }
-@media (min-width: 576px) {
-  .pie {
-    width: 50em;
-    margin-left: 0 0;
+@media only screen and (max-width: 576px) {
+  .pie .pie {
+    max-width: 576px;
+    width: 100%;
+    margin-left: 0;
   }
 }
 
