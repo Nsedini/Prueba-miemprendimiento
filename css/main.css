@@ -9964,4 +9964,13 @@ body {
   height: auto;
 }
 
+ul {
+  padding: 0;
+  list-style: none;
+}
+ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
 /*# sourceMappingURL=main.css.map */
