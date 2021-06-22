@@ -9958,4 +9958,10 @@ body {
   height: auto;
 }
 
+.image3 {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+}
+
 /*# sourceMappingURL=main.css.map */
