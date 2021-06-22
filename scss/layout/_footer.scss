@@ -1,5 +1,10 @@
 .pie {
     color: #fff;
     margin: 1em 5.3em;
+
+    @media (min-width: 576px) {
+        width: 50em;
+        margin-left: 0 0;
+    }
 }
 
