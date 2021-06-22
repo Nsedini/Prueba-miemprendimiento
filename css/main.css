@@ -9934,6 +9934,10 @@ body {
   box-sizing: border-box;
 }
 
+body {
+  margin: 0 20px;
+}
+
 .logo {
   width: 2em;
 }
@@ -10006,6 +10010,15 @@ body {
   object-fit: cover;
   width: 100%;
   height: auto;
+}
+
+.pie {
+  color: #fff;
+  margin: 1em 5.3em;
+}
+
+.correo {
+  width: 25%;
 }
 
 /*# sourceMappingURL=main.css.map */
