@@ -1,3 +1,11 @@
+  .first {
+    border: 2px solid #000;
+  }
+
+  .second {
+    border: 2px solid #000;
+  }
+
   .desarrollo {
     text-align: center;
   }
@@ -24,11 +32,39 @@
     height: auto;
   }
 
-  ul {
+  .lista {
     padding: 0;
     list-style: none;
-    li {
-      display: inline;
-      margin-right: 10px;
-    }
   }
+
+  .ico {
+      display: inlline;
+      
+  }
+
+.profile {
+  text-align: center;
+}
+
+.user {
+  height: 4.5em;
+  width: 4.5em;
+  border: 2px solid #000;
+  border-radius: 50% ;
+}
+
+.text {
+  text-align: justify;
+}
+
+.more {
+  text-align: center;
+  background-color: #808080;
+  color: #fff;
+}
+
+.image4 {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
